@@ -17,3 +17,5 @@ Geocoder,
 Dialog box, 
 TextView and
 Some basic functions.
+
+Note: minimum android version required is 5.0
